@@ -1,6 +1,6 @@
-# 📜 Código de Conduta — Comunidade Java ☕
+# 📜 Código de Conduta — Comunidade Kambas do Java ☕
 
-*"voluntario == Volunteer"*
+*"JUGs"*
 
 ---
 
@@ -112,5 +112,5 @@ Você é a razão dessa comunidade existir. Cada pergunta feita, cada resposta d
 ---
 
 ```java
-// Commit: codigo-de-conduta-v2.0
+// Commit: codigo-de-conduta-v1.0
 // Principios aplicados: respeitar, colaborar, evoluir
