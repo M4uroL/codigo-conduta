@@ -1,6 +1,6 @@
 # 📜 Código de Conduta — Kambas do Java ☕
 
-*"voluntario == Volunteer"*
+*"JUGs"*
 
 ---
 
